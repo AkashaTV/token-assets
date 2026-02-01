@@ -1,1 +1,15 @@
 
+{
+  "name": "H$RO Token List",
+  "timestamp": "2026-01-31T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1329,
+      "address": "0x7cB9b811Fdf306C86b9Dc3a4FDfFd25Da6C53fe1",
+      "name": "H$RO",
+      "symbol": "H$RO",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/AkashaTV/token-assets/main/logo.png"
+    }
+  ]
+}
